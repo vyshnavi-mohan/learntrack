@@ -181,6 +181,17 @@ classDiagram
 ```
 
 
+## Project Highlights
+
+- Implements CRUD operations for students and courses.
+- Supports student enrollment and cancellation.
+- Prevents duplicate active enrollments.
+- Uses custom exceptions for validation and missing entities.
+- Follows object-oriented programming principles.
+- Uses a layered architecture for separation of concerns.
+- Stores application data in memory using ArrayList.
+
+
 ## Author
 
 Developed as a Core Java learning project.
